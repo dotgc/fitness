@@ -1,8 +1,7 @@
 # Running
 
 
-### Muscles to work on to improve running
-(http://www.runningshoesguru.com/2014/06/five-key-muscle-groups-for-stronger-running/)
+### [Muscles to work on to improve running](http://www.runningshoesguru.com/2014/06/five-key-muscle-groups-for-stronger-running/)
 1. Glutes - the most important muscle for overall stability and power.
 2. Quads
 3. Core and abdomen - very important for running since they hold the upper body
@@ -10,9 +9,9 @@
 5. Calves
 
 ### Running Tips
-1. https://www.reddit.com/r/running/wiki/index/common_questions 
-2. Building base: http://davidhays.net/running/buildingbase.html 
-3. Proper running form: https://www.youtube.com/watch?v=entUXhcgt3c 
+1. [Common queries](https://www.reddit.com/r/running/wiki/index/common_questions) 
+2. [Building base](http://davidhays.net/running/buildingbase.html)
+3. [Proper running form](https://www.youtube.com/watch?v=entUXhcgt3c)
 
 
 ### Building base
