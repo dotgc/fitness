@@ -15,7 +15,7 @@
 
 
 ### Building base
-For building base, 4x/week running is going to do wonders since such a schedule allows time for ample rest as well
+* For building base, 4x/week running is going to do wonders since such a schedule allows time for ample rest as well
 
 
 ### 1 2 3 Rule for Training
