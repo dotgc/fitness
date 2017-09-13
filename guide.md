@@ -2,7 +2,9 @@
 
 
 ### General guidelines
-Start with the largest muscle group first then work progressively to the smaller muscles groups. For instance, do your flat bench, then inclines, then shoulders, then triceps.
+* Start with the largest muscle group first then work progressively to the smaller muscles groups. For instance, do your flat bench, then inclines, then shoulders, then triceps
+
+* Deload week: Incorporate a deload week every 6-8 weeks of training to provide for ample rest to the body
 
 ### Push-Pull method
 On push days, you want to focus on all the muscles used to push, i.e. chest, shoulders and triceps. On pull days, you concentrate on your back and biceps. 
