@@ -1,4 +1,4 @@
-# Running
+# Running Tips
 
 
 ### [Muscles to work on to improve running](http://www.runningshoesguru.com/2014/06/five-key-muscle-groups-for-stronger-running/)
