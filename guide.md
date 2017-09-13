@@ -88,3 +88,10 @@ During a rep, inhale when it is easy and exhale when it's hard. For example, dur
 
 ### Pushups
 Inhale and exhale with every rep. Inhale when coming down and exhale while moving up continuously
+
+
+### Resources
+1. [Athlean-X](https://www.youtube.com/user/JDCav24)
+2. [Scott Herman Fitness](https://www.youtube.com/user/ScottHermanFitness)
+3. [Stronglifts](https://stronglifts.com/)
+4. [Reddit r/fitness](https://www.reddit.com/r/Fitness/)
