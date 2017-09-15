@@ -6,7 +6,7 @@
 * Then, Weight training
 * Perform Cardio at the end
 
-**Schedule (3 days weight training followed by a rest day):**
+**Schedule (4 days weight training followed by a rest day):**
 * [Chest](#chest) and low intensity [Triceps](#triceps) together. (Push muscles)
     - Pair with [AB2](#abs-workouts), [Core](#core) and stretching
 * [Back](#back) and low intensity [Biceps](#biceps) (Pull muscles)
