@@ -7,14 +7,14 @@
 * Perform Cardio at the end
 
 **Schedule (3 days weight training followed by a rest day):**
-* [Chest](#chest) and low intensity Triceps together. (Push muscles)
-    - Pair with AB1, Core and stretching
-* Back and low intensity Biceps (Pull muscles)
-    - Pair with Obliques, Core and stretching
-* Legs
-    - Pair with AB2, Core and stretching
-* Shoulders, biceps and triceps
-    - Pair with lateral hangs, Core and stretching
+* [Chest](#chest) and low intensity [Triceps](#triceps) together. (Push muscles)
+    - Pair with [AB2](#abs-workouts), [Core](#core) and stretching
+* [Back](#back) and low intensity [Biceps](#biceps) (Pull muscles)
+    - Pair with [Obliques](#obliques), [Core](#core) and stretching
+* [Legs](#legs)
+    - Pair with [AB1](#abs-workouts), [Core](#core) and stretching
+* [Shoulders](#shoulders), [Biceps](#biceps) and [Triceps](#triceps)
+    - Pair with [Core](#core) and stretching
 * Rest day (preferably active rest i.e. only cardio day)
 
 
