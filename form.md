@@ -59,3 +59,8 @@
 2. Done preferably while standing, but can also do it sitting on the bench by raising it upright at a slight angle
 3. Shoulder blades should squeeze
 
+
+
+
+### Pushups
+1. Inhale and exhale with every rep. Inhale when coming down and exhale while moving up continuously
