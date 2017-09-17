@@ -17,19 +17,13 @@ If you train your chest on one day, and your triceps on another, on your chest d
 
 PS: Some people like to pair shoulders with legs because training chest, triceps and shoulders on the same day with heavy weights can be quite taxing. 
 
-### Questions?
-1. Shoulder position to activate lats
-2. reverse pec deck for back deltoid development
-3. side lateral for medial deltoid
-4. shoulder press for overall shoulders
-
 
 ### How to inhale:
 During a rep, inhale when it is easy and exhale when it's hard. For example, during a bench press, inhale when coming down and exhale when lifting up
 
 
-### Pushups
-Inhale and exhale with every rep. Inhale when coming down and exhale while moving up continuously
+### Questions?
+1. Shoulder position to activate lats
 
 
 ### Resources
