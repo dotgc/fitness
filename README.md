@@ -1,6 +1,5 @@
 
-**Click on the notes below to learn more**
-
+## Click on the notes below to learn more
 
 * [Concepts](https://github.com/dotgc/fitness/blob/master/guide.md)
 * [List of Workouts](https://github.com/dotgc/fitness/blob/master/workouts.md)
