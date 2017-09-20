@@ -34,6 +34,8 @@
 ### Bent over barbell row
 1. Back straight and parallel to the ground
 2. Pull in with the elbows ending at the chest
+3. The bend of the torso is responsible for the lats, if you stand relatively straighter, you'll exercise more of the upper back than the lats
+4. If you pull to your belly button, you'll target more of the lats. If you pull to your chest, you'll target more of your upper back, rear deltoids etc.
 
 
 ### Pull-Up Form:
@@ -47,7 +49,7 @@
 ### Lat Pull Down Form
 1. Keep your chest tall/bring your chest to the bar
 2. Keep your elbows pointed straight down
-3. Squeeze your lats/think of pulling from your armpits
+3. Squeeze your lats/think of pulling from your armpits. It's a lat exercise. You gotta tighten the lats
 4. Lower to your chin or just below
 5. Grab just outside your shoulders or a little wider
 6. Also try using the ‘V-grip’ handle
