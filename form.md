@@ -63,6 +63,8 @@
 
 
 
+### Bicep curls
+1. Keep elbows ahead of the hips and fixed at that point throughtout the set
 
 ### Pushups
 1. Inhale and exhale with every rep. Inhale when coming down and exhale while moving up continuously
