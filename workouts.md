@@ -1,12 +1,12 @@
 # Workouts
 
 
-**Sequence for weight training days:**
+## Sequence to follow on Weight Training days:
 * First, do 5 Minutes dynamic stretching
 * Then, Weight training
 * Perform Cardio at the end
 
-**Schedule (4 days weight training followed by a rest day):**
+## Schedule (4 days weight training followed by a rest day):
 * [Chest](#chest) and low intensity [Triceps](#triceps) together. (Push muscles)
     - Pair with [AB2](#abs-workouts), [Core](#core) and stretching
 * [Back](#back) and low intensity [Biceps](#biceps) (Pull muscles)
@@ -117,4 +117,32 @@
     2. Leg raise (on tricep dips machine)
 
 
+
+## Sample Full Body Workout
+
+### Low volume
+
+#### Workout A
+1. Barbell squat
+2. Barbell bench press
+3. Bent over barbell row
+4. Upright barbell row
+5. Crunches
+
+
+#### Workout B
+1. Barbell deadlift
+2. Barbell incline bench press
+3. Wide grip lat pulldown
+4. Side Lateral raise
+5. Calf raise
+6. Glutes
+
+#### Workout C
+1. Barbell squat
+2. Barbell bench press
+3. Dumbbell shoulder press
+4. Dumbbell bicep curl
+5. Triceps pushdown
+6. Situps
 
