@@ -23,6 +23,7 @@
 2. Weighted Lunges
 3. Leg Extension
 4. Leg Curl
+6. Hip Thrust
 5. Leg Press
 6. Calves Extension
 
