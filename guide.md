@@ -53,3 +53,4 @@ A drop set is where you perform as many reps of an exercise at a particular weig
 2. [Scott Herman Fitness](https://www.youtube.com/user/ScottHermanFitness)
 3. [Stronglifts](https://stronglifts.com/)
 4. [Reddit r/fitness](https://www.reddit.com/r/Fitness/)
+5. [Full body DB workout](https://www.youtube.com/watch?v=l0gDqsSUtWo)
